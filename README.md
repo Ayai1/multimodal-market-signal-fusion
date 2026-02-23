@@ -1,4 +1,6 @@
+
 # Multimodal Market Signal Fusion
+This project explores adaptive multimodal fusion for market signal prediction by combining audio sentiment, textual context, and technical indicators.
 
 Entropy-gated multimodal learning pipeline combining:
 - Audio feature embeddings
