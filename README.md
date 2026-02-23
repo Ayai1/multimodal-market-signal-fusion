@@ -15,4 +15,4 @@ Leak-free chronological evaluation:
 The model demonstrates stable performance despite noisy financial signals,
 with strong neutral-class detection and balanced multimodal fusion.
 
-![Confusion Matrix](outputs/confusion_matrix.png)
+![Confusion Matrix](Figure_1.png)
